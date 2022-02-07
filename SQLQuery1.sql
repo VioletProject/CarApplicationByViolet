@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT ('Cars', RESEED, 7)
