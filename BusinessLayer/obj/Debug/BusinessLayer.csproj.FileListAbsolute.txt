@@ -1,0 +1,18 @@
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\Projekat_diplomski\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\VIOLETA\Desktop\Diplomski rad\PROJEKAT DIPLOMSKI - CIROVIC\Projekat_DiplomskiRad_SI_CirovicCompany\BusinessLayer\obj\Debug\BusinessLayer.pdb
